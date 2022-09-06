@@ -1,0 +1,12 @@
+# developer folders
+.git
+.vscode
+
+# docker installs packages itself
+node_modules
+
+# docker builds app and creates dist itself
+dist
+
+# ignore tests in prod
+test
